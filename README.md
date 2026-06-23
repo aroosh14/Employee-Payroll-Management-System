@@ -1,6 +1,6 @@
 # Employee Payroll Management System
 
-A comprehensive, full-stack payroll and HR management system designed to automate salary calculations, tax deductions, attendance tracking and leave management while ensuring strict real-time data integrity.
+A comprehensive full-stack payroll and HR management system designed to automate salary calculations, tax deductions, attendance tracking and leave management while ensuring strict real-time data integrity.
 
 ## 🚀 Key Features
 
