@@ -1,13 +1,13 @@
 # Employee Payroll Management System
 
-A comprehensive, full-stack payroll and HR management system designed to automate salary calculations, tax deductions, attendance tracking, and leave management while ensuring strict real-time data integrity.
+A comprehensive, full-stack payroll and HR management system designed to automate salary calculations, tax deductions, attendance tracking and leave management while ensuring strict real-time data integrity.
 
 ## 🚀 Key Features
 
 * **Automated Salary Processing:** SQL-based logic to accurately calculate net pay, factoring in complex tax brackets and unpaid absences.
-* **Real-Time Data Integrity:** Relational database structures fortified with PL/SQL triggers, stored procedures, and custom functions to guarantee accurate salary recalculations without race conditions.
+* **Real-Time Data Integrity:** Relational database structures fortified with PL/SQL triggers, stored procedures and custom functions to guarantee accurate salary recalculations without race conditions.
 * **Transparent HR Operations:** Generates detailed payroll reports and maintains immutable audit trails for every financial alteration.
-* **Interactive Dashboard:** A modern, responsive web interface allowing administrators to manage employees, approve leaves, and view system analytics.
+* **Interactive Dashboard:** A modern, responsive web interface allowing administrators to manage employees, approve leaves and view system analytics.
 
 ## 🛠️ Tech Stack
 
